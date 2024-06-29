@@ -1,0 +1,1 @@
+!function(i){i.fn.input=function(n){return n||(n={}),this.each((function(){i(this).addClass("ui-widget ui-widget-content ui-corner-all ui-input"),i(this).css(n)}))}}(jQuery),function(i){i.fn.label=function(n){return n||(n={}),this.each((function(){i(this).addClass("ui-widget ui-input"),i(this).css(n)}))}}(jQuery);

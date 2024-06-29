@@ -1,0 +1,1 @@
+import t from"./default/index.css.mjs";import e from"./default/index.html.mjs";export default l=>{let d={};return d.default={css:t(),html:e()},d[`${l}`]?d[`${l}`]:(console.warn("type not found: ",`${l}`,"Set default"),d.default)};
